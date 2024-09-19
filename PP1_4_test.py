@@ -2,7 +2,7 @@ import os.path
 import sys
 import PP1_4
 
-def test_q1_1(capsys):
+def test_q1_2(capsys):
 
   try:
     exists = os.path.exists("PP1_4.py")
